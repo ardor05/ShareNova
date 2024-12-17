@@ -1,4 +1,4 @@
-# ShareNova - A New Era of Content Sharing
+# ShareNova - A New Era of Content Sharing 📂💫
 
 **ShareNova** revolutionizes content creation by providing a decentralized platform for secure, transparent, and automated data sharing. Empowering creators to retain control over their content and earnings, ShareNova simplifies the distribution process, eliminates intermediaries, and ensures fair compensation.
 

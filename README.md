@@ -55,10 +55,12 @@ ShareNova utilizes blockchain technology to create a secure, transparent, and au
    npm ci
    ```
 
-3. Configure environment variables:
-   - Create a `.env` file based on `.env.example` and fill in the required values (API keys, wallet addresses, etc.).
+3. Initiate the project:
+   ```bash
+   npm create vite@latest usecase-demo -- --template react-swc-ts
+   ```
 
-4. Run the application:
+5. Run the application:
    ```bash
    npm start
    ```
